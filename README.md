@@ -1,3 +1,4 @@
+// It's a great code
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
